@@ -1,2 +1,2 @@
-# github-autorelease-notes5D
+# github-autorelease-notes
 Automate the release notes.
